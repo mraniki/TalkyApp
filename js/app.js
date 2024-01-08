@@ -1,5 +1,5 @@
-//console.log('I am running!');
-document.write('hello');
+console.log('I am running!');
+document.write('hello 004');
 
 document.addEventListener('DOMContentLoaded', function () {
   const audioPlayer = document.querySelector('audio');
