@@ -1,6 +1,6 @@
 {
   "name": "Github Page PWA",
-  "short_name": "GPPWA",
+  "short_name": "TTPWA",
   "description": "Github Page as a Progressive Web App",
   "scope": "/talkyapp/",
   "start_url": "/talkyapp/",
