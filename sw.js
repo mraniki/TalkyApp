@@ -1,6 +1,6 @@
 var GHPATH = '/talkyapp';
 var APP_PREFIX = 'ttpwa_';
-var VERSION = 'version_005';
+var VERSION = 'version_008';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
