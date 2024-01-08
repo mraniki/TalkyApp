@@ -1,5 +1,5 @@
-var GHPATH = '/github-page-pwa';
-var APP_PREFIX = 'gppwa_';
+var GHPATH = '/talkyapp';
+var APP_PREFIX = 'ttpaw_';
 var VERSION = 'version_002';
 var URLS = [    
   `${GHPATH}/`,
