@@ -1,7 +1,7 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "TTPWA",
-  "description": "Github Page as a Progressive Web App",
+  "name": "Talky Trader",
+  "short_name": "TT",
+  "description": "Talky Trader as a Progressive Web App",
   "scope": "/talkyapp/",
   "start_url": "/talkyapp/",
   "background_color": "#ffffff",
