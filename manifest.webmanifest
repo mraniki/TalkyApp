@@ -1,7 +1,7 @@
 {
   "name": "Talky Trader",
   "short_name": "TT",
-  "description": "Talky Trader as a PWA",
+  "description": "Talky Trader PWA",
   "scope": "/talkyapp/",
   "start_url": "/talkyapp/",
   "background_color": "#ffffff",
