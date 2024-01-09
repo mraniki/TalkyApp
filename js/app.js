@@ -1,11 +1,11 @@
 console.log('I am running!');
 
-document.write('hello 012');
+document.write('hello 013');
 
 
 
 document.addEventListener('DOMContentLoaded', function () {
-  const audioPlayer = new Audio('http://radio.plaza.one/mp3');
+  const audioPlayer = new Audio('https://somafm.com/m3u/live.m3u');
   audioPlayer.controls = true;
   document.body.appendChild(audioPlayer);
   audioPlayer.play();
